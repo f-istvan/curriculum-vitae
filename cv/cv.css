@@ -1,0 +1,46 @@
+ul {
+	margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.cv-header {
+	height: 422px;
+}
+
+.cv-contact-container {
+	float: left;
+	width: 60%;
+}
+
+.cv-image-container {
+	float: left;
+	width: 40%;
+}
+
+.cv-image-container img {
+	height: 228px;
+	width: 228px;
+	display: block;
+    margin: 0 auto;
+}
+
+.cv-contact-container {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.cv-contact {
+	font-style: italic;
+}
+
+.cv-experience {
+	margin: 0px 0px 25px 25px;
+}
+
+.cv-date {
+	font-weight: 800;
+}
+
+.cv-detail {
+	margin-right: 7px;
+}
