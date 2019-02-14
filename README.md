@@ -4,7 +4,7 @@ Steps:
 
 1) clone the repo
 2) cd curriculum-vitae/
-3) extract wkhtmltox-0.12.4_linux-generic-amd64.tar.xz
+3) tar xf wkhtmltox-0.12.4_linux-generic-amd64.tar.xz
 4) Run the followng command to generate the CV from source:
 
 ```
